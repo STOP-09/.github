@@ -1,6 +1,6 @@
 # Stop `nula deviet`
 
-check [cathub](https://cathub.space)
+check [cathub](https://cathub.space) a taky milošbota lul
 
 <!--
 
